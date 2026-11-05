@@ -1,11 +1,7 @@
-<div align="right">
+<div align="center">
 
-<a href="https://aicollaboration.vercel.app/boris5933/#bc4796859261437b">
-<img src="readme/card.svg?v=1793743405" alt="" width="1600" />
+<a href="https://dataannotation.vercel.app/boris5933/#bc4796859261437b">
+  <img src="https://raw.githubusercontent.com/boris5933/boris5933/main/readme/card-1793895881.png" alt="Collaboration offer — long-term AI and software work" width="960" />
 </a>
 
 </div>
-
-Building small tools and experiments, and this is where it shows up.
-
-[Read the collaboration proposal →](https://aicollaboration.vercel.app/boris5933/#bc4796859261437b)
